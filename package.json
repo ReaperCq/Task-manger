@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ReaperCq.github.io/Task-manager",
+  "homepage": "https://reapercq.github.io/Task-manager",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
